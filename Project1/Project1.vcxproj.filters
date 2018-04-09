@@ -18,5 +18,13 @@
     <ClCompile Include="..\..\game-menu\game-menu.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="newclass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="newclass.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
